@@ -1,0 +1,27 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-found-image {
+  width: 400px;
+}
+.not-found-heading {
+  color: #64748b;
+}
+.not-found-desc {
+  color: #64748b;
+  text-align: center;
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .not-found-container {
+    justify-content: flex-start;
+  }
+  .not-found-image {
+    width: 90%;
+    margin-top: 40px;
+  }
+}
