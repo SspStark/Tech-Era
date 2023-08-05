@@ -1,4 +1,4 @@
-The goal of this coding exam is to quickly get you off the ground with **Fetching and Routing**.
+# [Tech Era](https://ssptechera.ccbp.tech/)
 
 ### Refer to the images below:
 
